@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F865CB1B-624C-4B4E-9094-5363A374E047}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistemaaluno/Program.cs">
+    <Files>
+      <File FileName="sistemaaluno/Program.cs" Line="3" Column="23" />
+      <File FileName="sistemaaluno/Aluno.cs" Line="27" Column="26" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.sistemaaluno PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

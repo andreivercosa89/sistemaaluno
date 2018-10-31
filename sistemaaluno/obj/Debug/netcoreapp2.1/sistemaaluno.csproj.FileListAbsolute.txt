@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/bin/Debug/netcoreapp2.1/sistemaaluno.deps.json
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/bin/Debug/netcoreapp2.1/sistemaaluno.runtimeconfig.json
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/bin/Debug/netcoreapp2.1/sistemaaluno.runtimeconfig.dev.json
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/bin/Debug/netcoreapp2.1/sistemaaluno.dll
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/bin/Debug/netcoreapp2.1/sistemaaluno.pdb
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.csprojAssemblyReference.cache
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.AssemblyInfo.cs
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.dll
+/Users/aluno/Projects/sistemaaluno/sistemaaluno/obj/Debug/netcoreapp2.1/sistemaaluno.pdb
