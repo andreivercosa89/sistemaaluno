@@ -22,7 +22,7 @@ namespace sistemaaluno
         }
 
         public double Media(){
-            return Math.Round((Nota1 + Nota2 + Nota3) / 3, 2); ;
+            return Math.Round((Nota1 + Nota2 + Nota3) / 3, 2);
         }
 
     }
