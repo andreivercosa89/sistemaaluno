@@ -11,13 +11,13 @@ namespace sistemaaluno
             aluno.Nome = Console.ReadLine();
 
             Console.WriteLine("\nInforme a 1a nota: ");
-            aluno.Nota1 = Int32.Parse(Console.ReadLine());
+            aluno.Nota1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("\nInforme a 2a nota: ");
-            aluno.Nota2 = Int32.Parse(Console.ReadLine());
+            aluno.Nota2 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("\nInforme a 3a nota: ");
-            aluno.Nota3 = Int32.Parse(Console.ReadLine());
+            aluno.Nota3 = double.Parse(Console.ReadLine());
 
 
             Console.WriteLine("A media do aluno {0} e: {1}", aluno.Nome, aluno.Media());
